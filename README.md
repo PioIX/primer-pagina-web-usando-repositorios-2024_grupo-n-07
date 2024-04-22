@@ -18,6 +18,6 @@ El objetivo de esta parte del tp es que los integrantes del grupo apliquen el wo
 ## Grupo Nº: 7
 ## Integrantes:
 * Santiago Barboza
-* pepito
+* Juan Cruz Prado
 * pepa
 * pepita
